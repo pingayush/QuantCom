@@ -22,7 +22,7 @@ Feel free to take any of them (or any other feature/bug fix) and send a PR.
 
 A webserver with php and an SQL server is needed to run PostQ.
 
-1. Download the code from [here](https://github.com/markszabo/PostQ/archive/master.zip) (or clone the git repository).
+1. Download the code or clone the git repository.
 2. Fill in `sqlconfig.php_example` with the database properties.
 3. Rename `sqlconfig.php_example` to `sqlconfig.php`.
 4. Open `/install.php` in browser. This will create the necessary database tables.
